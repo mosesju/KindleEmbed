@@ -1,7 +1,5 @@
 # embedland
-Theoretically this is a universe of code for playing with embeddings. In reality it contains one file. More to come, I hope.
-
-![](https://user-images.githubusercontent.com/279531/221034510-aa4084a9-86dd-4ddc-99de-8718acd211b4.png)
+Modified Daniel Gross' embedland to plot my kindle highlights. 
 
 ### bench.py
 This file benchmarks various embeddings using the Enron email corpus. Once you install the various libraries it needs, you can run it with python bench.py. It will:
